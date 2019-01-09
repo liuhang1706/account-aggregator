@@ -28,3 +28,4 @@ test-branch的一次提交
 用户一的第二次提交
 用户一在master上又提交了一次
 用户一解决了一个bug fix-bug-1
+用户一解决了一个bug fix-bug-2
