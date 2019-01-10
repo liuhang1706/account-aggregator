@@ -31,3 +31,4 @@ test-branch的一次提交
 用户一解决了一个bug fix-bug-2
 master: test reflog
 master: test reflog 2
+master: add acommit
