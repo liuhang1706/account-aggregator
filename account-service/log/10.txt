@@ -7,3 +7,4 @@ the second user 又提交了一下修改
 测试git reflog 2
 test-merge : add a commit
 test-merge : add a commit2
+用户一测试合并1
